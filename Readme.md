@@ -1,4 +1,4 @@
-Tämän harjoitustyön ohjelma mahdollistaa poistaa tekstitiedostoista merkit/sanat/lauseet.
+Tämän tekstipuhdistus- ohjelma mahdollistaa poistaa tekstitiedostoista merkit/sanat/lauseet.
 
 Tiedostojen luku
 Ohjelma kysyy ensin tiedostopolut, se mistä poistetaan ja se mihin kirjoitetaan.
